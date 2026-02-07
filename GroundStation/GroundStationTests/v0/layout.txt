@@ -1,0 +1,11 @@
+wrec_groundstation/
+├── run.sh
+├── setup_ap.sh
+├── start_server.sh
+├── app.py
+├── system_status.py
+├── templates/
+│   └── index.html
+└── static/
+    ├── style.css
+    └── script.js

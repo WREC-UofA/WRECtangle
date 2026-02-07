@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>WREC Ground Station GUI</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+    <h1>WREC Ground Station</h1>
+    <div class="container">
+        <div class="left-section">
+            <h2>Pi Status</h2>
+            <div class="status">
+                <span>Pi Connection Status: </span>
+                <span id="status-text">OK</span>
+                <span id="status-bubble" class="bubble green"></span>
+            </div>
+            <div class="time-on">
+                <span>Time On: </span>
+                <span id="time-on">00:00:00</span>
+            </div>
+        </div>
+        <div class="right-section">
+            <h2>Right Section</h2>
+            <!-- Placeholder for future content -->
+        </div>
+        <div class="bottom-section">
+            <h2>Bottom Section</h2>
+            <!-- Placeholder for future content -->
+        </div>
+    </div>
+    <script src="https://cdn.socket.io/4.0.0/socket.io.min.js"></script>
+    <script src="{{ url_for('static', filename='js/script.js') }}"></script>
+</body>
+</html>
