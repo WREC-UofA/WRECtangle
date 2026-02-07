@@ -1,0 +1,11 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "STM32")(type "KiCad")(uri "U:/Documents/Documents/School/Clubs/WREC/SummerDesignWork/KiCAD Testing/WRECtangle-prototypes/CustomFootprints/STM32F405RGT6")(options "")(descr ""))
+  (lib (name "Ti")(type "KiCad")(uri "U:/Documents/Documents/School/Clubs/WREC/SummerDesignWork/KiCAD Testing/WRECtangle-prototypes/CustomFootprints/TPS55289RYQR")(options "")(descr ""))
+  (lib (name "BNO085")(type "KiCad")(uri "U:/Documents/Documents/School/Clubs/WREC/SummerDesignWork/KiCAD Testing/WRECtangle-prototypes/CustomFootprints/BNO085")(options "")(descr ""))
+  (lib (name "MAX-M10S-00B")(type "KiCad")(uri "U:/Documents/Documents/School/Clubs/WREC/SummerDesignWork/KiCAD Testing/WRECtangle-prototypes/CustomFootprints/MAX-M10S-00B")(options "")(descr ""))
+  (lib (name "H3LIS331DLTR")(type "KiCad")(uri "U:/Documents/Documents/School/Clubs/WREC/SummerDesignWork/KiCAD Testing/WRECtangle-prototypes/CustomFootprints/H3LIS331DLTR")(options "")(descr ""))
+  (lib (name "LTC2344CUH-16_PBF")(type "KiCad")(uri "U:/Documents/Documents/School/Clubs/WREC/SummerDesignWork/KiCAD Testing/WRECtangle-prototypes/CustomFootprints/LTC2344CUH-16_PBF")(options "")(descr ""))
+  (lib (name "1x2-ScrewTerminal")(type "KiCad")(uri "U:/Documents/Documents/School/Clubs/WREC/SummerDesignWork/KiCAD Testing/WRECtangle-prototypes/CustomFootprints/1x2-ScrewTerminal")(options "")(descr ""))
+  (lib (name "SMA-Connector")(type "KiCad")(uri "U:/Documents/Documents/School/Clubs/WREC/SummerDesignWork/KiCAD Testing/WRECtangle-prototypes/CustomFootprints/SMA-Connector")(options "")(descr ""))
+)

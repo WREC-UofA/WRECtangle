@@ -1,4 +1,0 @@
-(sym_lib_table
-  (version 0)
-  (lib (name "Board1-easyedapro")(type "KiCad")(uri "${KIPRJMOD}/Board1-easyedapro.kicad_sym")(options "")(descr ""))
-)

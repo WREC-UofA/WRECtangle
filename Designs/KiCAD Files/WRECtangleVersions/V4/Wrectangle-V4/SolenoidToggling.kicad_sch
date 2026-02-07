@@ -1,0 +1,28 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "853ab4a5-f88a-4e4b-aff0-8c1451388a19")
+	(paper "A4")
+	(lib_symbols)
+	(text "Toggles a supply voltage (24V) on/off \nUsing this FET"
+		(exclude_from_sim no)
+		(at 140.462 63.246 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "4ce88dd8-4d1f-4ee2-967d-0996e319964e")
+	)
+	(text "Uses direct HIGH/LOW drive from STM32"
+		(exclude_from_sim no)
+		(at 63.246 62.23 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "4ece83ea-dd0f-4904-92c2-8e46ee4f7092")
+	)
+)
