@@ -451,13 +451,13 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "MB1136.kicad_pro",
+    "filename": "Board1.kicad_pro",
     "version": 3
   },
   "net_settings": {
     "classes": [
       {
-        "bus_width": 10,
+        "bus_width": 12,
         "clearance": 0.2,
         "diff_pair_gap": 0.25,
         "diff_pair_via_gap": 0.25,
@@ -487,7 +487,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "newGerbers/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",
@@ -597,7 +597,7 @@
       "version": 1
     },
     "net_format_name": "",
-    "page_layout_descr_file": "",
+    "page_layout_descr_file": "empty.kicad_wks",
     "plot_directory": "",
     "space_save_all_events": true,
     "spice_current_sheet_as_root": false,
@@ -609,14 +609,11 @@
     "subpart_first_id": 65,
     "subpart_id_separator": 0
   },
-  "sheets": [],
-  "text_variables": {
-    "CONFIGURATIONPARAMETERS": "",
-    "CONFIGURATORNAME": "",
-    "DOCUMENTNUMBER": "MB1136",
-    "ISUSERCONFIGURABLE": "",
-    "PROJECT": "NUCLEO-XXXXRX",
-    "SHEETTOTAL": "4",
-    "VERSIONCONTROL_REVNUMBER": ""
-  }
+  "sheets": [
+    [
+      "ac631e99-3ce8-46c8-8add-9874a2154669",
+      "Root"
+    ]
+  ],
+  "text_variables": {}
 }
