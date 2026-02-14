@@ -1,12 +1,3 @@
-Below is a **GitHub-ready README.md** version of the PCB review action items, rewritten to:
-
-* ✅ Be structured and scannable
-* ✅ Include specific reference designators mentioned in the review (e.g., `Rin1`, thermistor nets, WQFN IC)
-* ✅ Explain *why* each change is needed
-* ✅ Provide a “Where to Start” bring-up order
-
----
-
 # PCB Design Review – Action Items
 
 This document summarizes feedback from the Discord PCB design review and converts it into a structured action checklist prior to fabrication.
