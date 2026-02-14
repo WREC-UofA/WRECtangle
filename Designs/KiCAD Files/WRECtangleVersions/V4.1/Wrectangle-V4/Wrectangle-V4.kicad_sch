@@ -8226,16 +8226,6 @@
 			(embedded_fonts no)
 		)
 	)
-	(text "EtanTest"
-		(exclude_from_sim no)
-		(at 26.416 121.92 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "3e4c7f8b-47d5-4241-ac9c-dfee8548e225")
-	)
 	(text "I2C Lines with \n4.7k pullup resistors"
 		(exclude_from_sim no)
 		(at 113.538 107.696 0)
@@ -8255,16 +8245,6 @@
 			)
 		)
 		(uuid "5b520be6-ae2d-433d-949d-2e1e2b61594b")
-	)
-	(text "luke edit test"
-		(exclude_from_sim no)
-		(at 24.638 130.048 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "95ca01d0-0cad-4fcc-b6cc-3fdad09da76a")
 	)
 	(text "SDO to GND\nfor default\nI2C address"
 		(exclude_from_sim no)
@@ -12382,7 +12362,7 @@
 			)
 		)
 	)
-	(global_label "PA8"
+	(global_label "ADC-DRDY"
 		(shape bidirectional)
 		(at 80.01 57.15 0)
 		(fields_autoplaced yes)
@@ -12394,7 +12374,7 @@
 		)
 		(uuid "e75848ba-93a8-44cf-8e2a-73edea4a1c19")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 87.6746 57.15 0)
+			(at 94.2061 57.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
