@@ -8226,6 +8226,16 @@
 			(embedded_fonts no)
 		)
 	)
+	(text "EtanTest"
+		(exclude_from_sim no)
+		(at 26.416 121.92 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "3e4c7f8b-47d5-4241-ac9c-dfee8548e225")
+	)
 	(text "I2C Lines with \n4.7k pullup resistors"
 		(exclude_from_sim no)
 		(at 113.538 107.696 0)
